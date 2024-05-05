@@ -45,4 +45,5 @@ public class GooglePageTest {
 	public void teardown() {
 		driver.close();
 	}
+  //Test Suite --> Tests --> TestClasses --> TestMethods
 }
